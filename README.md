@@ -58,6 +58,5 @@ public class Type {
 # Output:
 ![image](https://github.com/Sudhar2003/memberclass/assets/128343775/ec0fbd70-7404-48a9-bd10-597016372a57)
 
-
-Result
+# Result
     We have successfully created a Java program using inheritance one class can acquire the properties of ot
